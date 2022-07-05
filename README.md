@@ -19,6 +19,7 @@ $ cd Car-Rental-System
 ```
 # Requirements
 ```bash
+C# (sharp) knowlegde
 Text editor of your choice or
 Build in visualstudio latest IDE for easy UI design
 SQL knowledge
