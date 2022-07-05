@@ -8,3 +8,18 @@ Thus, the users will feel very easy to work on it. By using this system, a user 
 The car rental information can be added to the system, or existing information can be edited or deleted by the user. 
 The transaction/return reports of the car rental system can be retrieved by the user, when its required. 
 Thus, there is no delay in the availability of any car information, when ever needed the car rental information can be captured very quickly and easily.
+
+```bash
+Build by SAMU @SAMUTECHSTUDIO
+```
+# Modify to own it:
+```bash
+$ git clone https://github.com/4SAMU/Car-Rental-System
+$ cd Car-Rental-System
+```
+# Requirements
+```bash
+Text editor of your choice or
+Build in visualstudio latest IDE for easy UI design
+SQL knowledge
+```
